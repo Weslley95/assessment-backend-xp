@@ -1,7 +1,7 @@
 # Desafio assessment-backend-xp webjump
 
 ## Resumo
-- O projeto consistem em adicionar novos produtos e categorias.
+- O projeto consiste em adicionar novos produtos e categorias.
 
 ## Solução adotada
 - Desenvolvimento utilizando padrão MVC
